@@ -1,0 +1,956 @@
+[
+  {
+    "id": "52",
+    "date": "2026-05-05",
+    "start": "09:00",
+    "end": "09:45",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "AI & ML",
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/DanielMeixner.jpg",
+    "speaker": "Daniel Meixner",
+    "title": "Keynote: Agentic Software Development Lifecycle mit GitHub",
+    "duration": "45 min",
+    "language": "deutsch englisch",
+    "description": "Agenten in der Softwareentwicklung sind keine Zukunftsmusik mehr – sie sind da und ready for prime time. Diese Keynote zeigt, was heute bereits mit der GitHub Plattform möglich ist, wie sich Agentic AI in den Software Development Lifecycle integriert und welche Entwicklungen in den kommenden Jahren zu erwarten sind.\n\nIm Fokus steht, wie agentenbasierte Systeme die Arbeitsweise von Entwickler:innen verändern, welche Rolle Menschen künftig im SDLC einnehmen und was das für bestehende Prozesse, Skills und Organisationsmodelle bedeutet. Live-Demos sowie praxisnahe Erfahrungen aus der Einführung von AI Technologien in Großunternehmen – inklusive GitHub selbst – machen die Konzepte greifbar und zeigen, wo konkrete Mehrwerte entstehen, welche Herausforderungen auftreten und wie sich Agentic AI gezielt an individuelle Anforderungen anpassen lässt."
+  },
+  {
+    "id": "53",
+    "date": "2026-05-06",
+    "start": "09:00",
+    "end": "09:45",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "AI & ML",
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RobertEichenseer.jpg",
+    "speaker": "Robert Eichenseer",
+    "title": "Keynote: Softwareentwickler in Zeiten von AI",
+    "duration": "45 min",
+    "language": "deutsch englisch",
+    "description": "Die Rolle von Softwareentwicklern verändert sich rasant durch Künstliche Intelligenz. Tools wie GitHub Copilot oder Vibe Coding unterstützen mich und viele andere Entwickler bereits heute bei der täglichen Arbeit und eröffnen neue Möglichkeiten für Effizienz und Kreativität.\n\nIn dieser Keynote zeige ich, wie sich die Arbeit von Entwicklern verändert, welche Missverständnisse sich hartnäckig halten und warum es ein Fehler ist, Junior Developer weniger einzustellen. Außerdem beleuchte ich, wo Unternehmen gezielt investieren können, um mit AI echten Mehrwert zu schaffen, Prozesse zu beschleunigen und die Time-to-Market zu verkürzen. Eine spannende Verbindung zwischen Entwicklerperspektive und unternehmerischem Nutzen, praxisnah und zukunftsorientiert."
+  },
+  {
+    "id": "35",
+    "date": "2026-05-06",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "englisch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RachelAppel.jpg",
+    "speaker": "Rachel Appel",
+    "title": "Retro AI: Exploring modern AI algorithms through the Commodore 64 and BASIC",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Have you ever wondered where today’s AI ideas actually came from? In this talk, we’ll take a step back in time to explore modern AI by looking at the algorithms that shaped it. Using the Commodore 64 as our time machine, we’ll see how many of the core ideas behind today’s AI were already taking shape decades ago, as well as what happened to them.\n\nWhile modern systems benefit from vastly faster processors and enormous amounts of data, they’re still building on the same fundamental concepts. The big difference is scale, not intent. By revisiting classic algorithms written in BASIC on the C64, we’ll explore early approaches to natural language processing, expert systems, pattern recognition, problem solving, and machine learning. Along the way, we’ll connect these early experiments to the generative AI tools we use today and show just how consistent the underlying ideas have remained over time."
+  },
+  {
+    "id": "36",
+    "date": "2026-05-06",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "englisch",
+    "themes": [
+      "AI & ML",
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RachelAppel.jpg",
+    "speaker": "Rachel Appel",
+    "title": "Practical AI for the C# developer",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Artificial intelligence is changing how developers write code and how they maintain it over time. This talk focuses on practical ways a C# developer can apply AI in daily work. You will see how AI can generate boilerplate code and reduce repetitive tasks. You will also learn how it can raise code quality through smarter suggestions and guided refactoring. Testing and documentation are other areas where AI can remove friction and save time. Of course, debugging remains part of the job and AI can assist by clarifying errors and suggesting fixes. The session presents concrete techniques for bringing AI into everyday workflows so teams can work faster, make fewer mistakes, and keep their codebases easier to maintain."
+  },
+  {
+    "id": "1",
+    "date": "2026-05-05",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "englisch",
+    "themes": [
+      "Architektur",
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/HenryBeen.jpg",
+    "speaker": "Henry Been",
+    "title": "The art of getting 💩 done",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Do you want to call in sick for the half day of Sprint Planning every other week? Do you take every excuse to cancel your pre-refinement meeting with your product owner and simply want to stand up and leave the actual refinement after debating the sizing of a story for 20 minutes? Do you feel that all that sprinting is not working for you?\n\nIf that’s the case, this session is for you! Over the last few years, we have seen an explosion in methodologies, frameworks, and ways of working within IT. But is this helping us in getting more sh*t done? Sometimes, but not always.\n\nWhenever given the opportunity and the right context, I try to do things differently. In this session, I will share what I dislike about some of the things happening in our industry, and how I have approached things in three different teams over the last few years.\n\nSo please join Henry Been in this session where he reflects on ten years of working in software development and the things that have helped him get 💩 done."
+  },
+  {
+    "id": "2",
+    "date": "2026-05-05",
+    "start": "17:30",
+    "end": "18:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "englisch",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/HenryBeen.jpg",
+    "speaker": "Henry Been",
+    "title": "Logging, instrumentation, dashboards, alerts and all that – for developers",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Embracing DevOps entails more than just shipping changes to production faster and faster. Your team is suddenly also responsible for monitoring your software in production and detecting and troubleshooting issues. To work together with operation specialists in your team or maybe even embrace a #NoOps approach, you as the developer, need to learn about monitoring.\n\nWe will discuss logging frameworks and log analytics solutions. Next to that we will explore metrics: your software's KPI's. What metrics to choose and how to gather them. To let information come to us, we will use both logging and metrics to create dashboards and alerts that notify us when things go south. Or better yet: before things go south!\n\nFinally, we will combine all of this to see how we can quickly investigate and resolve production issues.\n\nJoin Henry Been for a demo heavy session, including like NLog, Application Insights, Seq and more to see how to implement all of the above from scratch. During this session, you will learn everything you need to know to start monitoring your solutions and never lose any sleep ever again!"
+  },
+  {
+    "id": "6",
+    "date": "2026-05-05",
+    "start": "17:30",
+    "end": "18:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/HaraldBinkle.jpg",
+    "speaker": "Harald Binkle",
+    "title": "KI-gestützte Anforderungs- und Testfallentwicklung",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Vage Anforderungen und lückenhafte Tests sind die größten Risiken moderner Softwareprojekte. Generative KI bietet hier enorme Potenziale – sofern sie methodisch gesteuert wird. In diesem Talk zeige ich, wie die BMad-Methode (Build More Architect Dreams) diesen Teil des SW-Prozesses revolutioniert.\n\nWir beleuchten den Weg von der ersten Idee bis zur validierten Testsuite:\n\nStrukturierte Analyse: Wie BMad-Agenten Anforderungen präzisieren und Logikfehler frühzeitig aufdecken.\n\n• Context Engineering: Die effiziente Organisation von Projektwissen für präzise KI-Ergebnisse.\n\n• Automatisierte Testfallentwicklung: Der Einsatz des Test Architect (TEA), um Test-Suiten direkt aus Spezifikationen abzuleiten.\n\nErfahren Sie, wie Sie mit BMad die Lücke zwischen Business-Logik und technischer Validierung schließen und die Qualität Ihrer Entwicklungsprozesse nachhaltig steigern."
+  },
+  {
+    "id": "3",
+    "date": "2026-05-05",
+    "start": "16:15",
+    "end": "17:15",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/KlausBlessing.jpg",
+    "speaker": "Klaus Blessing",
+    "title": "Überblick Microsoft Agentic Agents und Multi-Agents",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Agentic AI geht über klassische Chatbots hinaus: Agents planen, entscheiden und handeln eigenständig – oft im Zusammenspiel mehrerer spezialisierter Agents.\n\nDiese Session gibt einen kompakten Überblick, wie Agentic Agents und Multi-Agent-Szenarien im Microsoft-Ökosystem umgesetzt werden können. Im Fokus stehen Azure AI Foundry und Microsoft 365 Copilot Studio, deren Stärken, Unterschiede und typische Einsatzszenarien. Zusätzlich wird gezeigt, wie Microsoft Fabric, Data Agents und ausgewählte Azure AI Services in agentenbasierte Architekturen eingebunden werden können. Abgerundet wird der Überblick durch zentrale Aspekte zu Architektur, Governance und Lizenzierung."
+  },
+  {
+    "id": "4",
+    "date": "2026-05-06",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/PeterButzhammer.jpg",
+    "speaker": "Peter Butzhammer",
+    "title": "Inter-Process-Communication – Kommunikationsmuster verstehen und bewusst einsetzen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "REST, Kafka, gRPC, NATS, … – die Liste an Technologien für Inter-Process-Communication ist lang. Doch wenn wir einen Schritt zurücktreten und den Informationsfluss betrachten, lassen sich nur zwei grundlegende Muster erkennen: Request-Reply und Fire-and-Forget.\n\nIn diesem Vortrag beleuchten wir die Unterschiede dieser beiden Ansätze und zeigen, welche Auswirkungen sie auf Fehlerbehandlung, Versionierung und Skalierbarkeit haben. Dabei wird deutlich, dass der logische Kommunikationsmodus weitgehend unabhängig von der eingesetzten Technologie ist. Ziel ist es, Entwickler für die impliziten Designentscheidungen hinter Inter-Process-Communication zu sensibilisieren – und ihnen konkrete Denkanstöße für robuste, zukunftsfähige Systeme mitzugeben."
+  },
+  {
+    "id": "5",
+    "date": "2026-05-06",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/PeterButzhammer.jpg",
+    "speaker": "Peter Butzhammer",
+    "title": "Dotnet Garbage Collector: Eine Einführung",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Die automatische Speicherverwaltung ist ein zentrales Merkmal von Dotnet. Der Garbage Collector kümmert sich darum, nicht mehr benötigten Speicher wieder freizugeben. Meist verrichtet er seine Arbeit still und unauffällig im Hintergrund. Manchmal kann das Zusammenspiel zwischen Programm-Logik und Garbage Collector jedoch zu Problemen führen.\n\nIn diesem Vortrag betrachten wir die Funktionsweise des Garbage Collectors sowie verschiedene Konfigurationsmöglichkeiten. Anschließend analysieren wir Speicher mit Hilfe verschiedener Tools und besprechen, wie sich mit dem Einsatz moderner Konstrukte wie Spans der Druck auf den Garbage Collector verringern lässt."
+  },
+  {
+    "id": "37",
+    "date": "2026-05-05",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch",
+    "themes": [
+      "New Work",
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/KristineCorbus.jpg",
+    "speaker": "Kristine Corbus",
+    "title": "Testen können: Der Unterschied zwischen guten und exzellenten Entwickler:innen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Als Test-Team-Lead habe ich über Jahre hinweg Senior Developers zeitweise in Testaufgaben eingebunden. Fast ohne Ausnahme folgte dieselbe Bitte in einem Vieraugengespräch: Bitte versetzt mich nicht dauerhaft ins Testteam. Diese Reaktion war bemerkenswert und machte mich neugierig. Sie wirkte wie Angst – aber wovor genau?\n\nDie Alternative zu kompetentem Testen ist nicht unentdeckte Perfektion. Sie ist die Entdeckung von Fehlern durch Kund:innen. Reputationsschäden. Und in kritischen Systemen Konsequenzen, die weit über Code hinausgehen.\n\nWas viele Entwickler:innen am Testen als unangenehm erleben – die zwischenmenschliche Komplexität, die kritische Positionierung, das Überbringen unbequemer Erkenntnisse – markiert genau die Kompetenzlücke zwischen mittlerem und seniorigem Engineering-Level. Es sind zentrale professionelle Fähigkeiten, die im Kontext von Testen besonders sichtbar werden."
+  },
+  {
+    "id": "38",
+    "date": "2026-05-05",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++",
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/AndreasDaxer.jpg",
+    "speaker": "Andreas Daxer",
+    "title": "Ein Mvvm-Navigationsframework für alle Plattformen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "MAUI ist eine elegante Weiterentwicklung von XamarinForms. Im Bereich der Navigation unterstützt es von sich aus aber nicht die sog. ViewModel-First-Navigation. Lernen Sie MvvmNav kennen! Damit können Sie die Navigation von der Plattform abstrahieren, die somit in Wpf-, MAUI-, Avalonia- und Uno-Applikationen einheitlich wird."
+  },
+  {
+    "id": "39",
+    "date": "2026-05-06",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/AndreasDaxer.jpg",
+    "speaker": "Andreas Daxer",
+    "title": "C# ohne Ballast: Vom Einzeiler zum Cross-Plattform-CLI",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": ".NET wird immer zugänglicher: Mit dotnet run file.cs lassen sich C#-Dateien direkt ausführen – ganz ohne Projekt. Lernen Sie, wie daraus schnell Skripte, Prototypen und schließlich leistungsfähige, plattformübergreifende CLI-Tools entstehen. Anhand eines praxisnahen Beispiels erleben Sie die gesamte Spannweite moderner Konsolenanwendungen – von der schnellen Idee bis zur strukturierten Lösung."
+  },
+  {
+    "id": "40",
+    "date": "2026-05-05",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch",
+    "themes": [
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/KonstantinDiener.jpg",
+    "speaker": "Konstantin Diener",
+    "title": "Bin ich jetzt schon Senior Engineer, oder was?",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Dieser Titel ist mit ganz vielen Mythen verbunden – der Senior Engineer. Wie für Begriffe wie Agile oder DevOps gibt es ganz unterschiedliche Vorstellungen und Definitionen.\n\nKonstantin zeigt, warum der Begriff ungünstig ist und wir eher von Mature Engineers sprechen sollten. Außerdem wagt er sich an eine Bestandsaufnahme, mit der jede und jeder für sich entscheiden kann, wie weit es mit dem Mature Engineer her ist. Die Überlegungen kreisen dabei um eine Reihe von Fragen: Was muss ich können? Muss ich möglichst viele Programmiersprachen beherrschen? Welche Praktiken sind wichtig? Was ist absolut toxisch? Wie gliedere ich mich als Mature Engineer in ein Team und eine Engineering-Organisation ein?\n\nEs wird eine kurzweilige Betrachtung, bei der wir auch immer wieder (über uns selbst) lachen können. Zuhören lohnt sich unabhängig vom Erfahrungshintergrund …"
+  },
+  {
+    "id": "41",
+    "date": "2026-05-05",
+    "start": "16:15",
+    "end": "17:15",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch",
+    "themes": [
+      "New Work",
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/KonstantinDiener.jpg",
+    "speaker": "Konstantin Diener",
+    "title": "Im Zeitalter von KI: Werde ich noch gebraucht?",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Die Nachrichten in der Softwareentwicklung scheinen sich zu überschlagen. Sah es 2024 noch so aus, als würde die KI nur minderwertigen Code erzeugen, werden die Modelle nun laufend besser. Der neueste Schrei ist Agentic Software Engineering. Hier übernehmen KI-Agenten die Entwicklung und sogar das Review von Code.\n\nBraucht es in dieser neuen Welt noch Softwareentwickler?\n\nOh ja, die braucht es! Wir werden aber in Zukunft (noch) weniger Code von Hand schreiben und dafür wieder mehr Problemversteher und -übersetzer. Ich zeige, wie das neue Rollenbild des (Product) Engineers im KI-Zeitalter aussieht."
+  },
+  {
+    "id": "42",
+    "date": "2026-05-06",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "englisch",
+    "themes": [
+      ".NET & C++",
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/DennisDietrich.jpg",
+    "speaker": "Dennis Dietrich",
+    "title": "Let's get Func<Y>: Adding functional programming to your OOP codebase",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "All functions are equal. But some functions are more equal than others! They could be higher-order functions or (im)pure. Some might be closures. In this talk you'll learn what all of these terms mean, how they relate to functional programming, and how functional programming lets you solve certain problems more elegantly and succinctly than object-oriented programming, using (simplified) real-world examples in C#."
+  },
+  {
+    "id": "7",
+    "date": "2026-05-05",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/AlexanderEiswirth.jpg",
+    "speaker": "Alexander Eiswirth",
+    "title": "Agentic Engineering Live: Mit einem KI-Agenten auf AWS entwickeln und bereitstellen",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "In dieser Sitzung erstellen wir eine serverlose Anwendung auf AWS, die mithilfe von Claude Code live entwickelt und bereitgestellt wird, und zwar Schritt für Schritt. S3, Lambda-Funktionen, API Gateway, DynamoDB, CDK-Infrastruktur. All das entsteht in Echtzeit aus einem agentenbasierten Workflow.\n\nDies ist kein Vibe-Coding. Das Interessante daran ist nicht, dass es funktioniert, sondern wie es funktioniert. Ihr werdet Muster erkennen, die den Unterschied zwischen prompt & hoffen und selbstbewusstem Engineering ausmachen: wie man einem Agenten den richtigen Kontext gibt, wie man jede Ebene systematisch überprüft und wann man eingreifen muss. Nehmt einen Workflow mit, den Ihr für eure eigenen Ideen und Herausforderungen nutzen könnt."
+  },
+  {
+    "id": "43",
+    "date": "2026-05-05",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/DanielaEngert.jpg",
+    "speaker": "Daniela Engert",
+    "title": "Dasselbe C++, aber schneller am Ziel",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "C++ Kompilierungsgeschwindigkeit ist einer der größten Kritikpunkte von Entwicklern, der in vielen Umfragen genannt wird.\n\nEin Teil davon ist – zumindest bei der aktuellen Compiler-Technologie – aufgrund der zunehmenden Komplexität, Ausdruckskraft, Tradition und der Erhaltung früherer Investitionen (auch bekannt als „Abwärtskompatibilität\") in C++ unvermeidbar. Es gibt Sprachfunktionen, die den Durchsatz des Compilers verlangsamen können, aber auch andere, die ihn verbessern können.\n\nEs gibt Fallstricke, auf die Sie achten sollten, und Techniken, die Sie nutzen können, um Ihr Entwicklerleben – und das Ihres Teams – zu verbessern. Über allgemein gültige Ratschläge hinaus werde ich einige konkrete Ergebnisse aus internen Anwendungen zeigen, die die von uns gebauten Maschinen steuern. Vielleicht geben Ihnen einige davon Ideen, die Sie in Ihrem Code verwenden können."
+  },
+  {
+    "id": "8",
+    "date": "2026-05-05",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "englisch",
+    "themes": [
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/SoumayaErradi.jpg",
+    "speaker": "Soumaya Erradi",
+    "title": "Unlocking the power of Typescript",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Typescript can sometimes feel complicated, and in some projects strong typing is still perceived as unnecessary overhead. But once its mental model clicks, it fundamentally changes how we write code: safer, clearer, and more scalable.\n\nIn this talk, we go beyond the basics and explore advanced features such as type guards, mapped types, and branded types. We’ll see how to use them to solve real-world problems, make code more robust, and avoid entire classes of bugs. We’ll also address some common myths around Typescript and why it can be valuable in any kind of project."
+  },
+  {
+    "id": "9",
+    "date": "2026-05-05",
+    "start": "16:15",
+    "end": "17:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "englisch",
+    "themes": [
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/SoumayaErradi.jpg",
+    "speaker": "Soumaya Erradi",
+    "title": "Strong types, blinking lights: Learning Advanced Typescript with Arduino",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Explore the power of advanced TypeScript features by bringing hardware to life.\n\nIn this talk, we step outside the browser and use Typescript to control real hardware with an Arduino. Sensors, servos, and LEDs become a playground for learning advanced language concepts. With the help of Johnny-Five, we’ll see how enums, discriminated unions, branded types, and other advanced techniques can make embedded code just as safe and expressive as modern Typescript applications.\n\nIt’s TypeScript like you’ve never seen it before: blinking, sensing, and moving in the real world."
+  },
+  {
+    "id": "10",
+    "date": "2026-05-06",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/JanekFellien.jpg",
+    "speaker": "Janek Fellien",
+    "title": "Legacy System Integration neu gedacht",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Legacy-Systeme leiden unter diversen Problemen. Fangen wir damit an, dass viele Entwickler*innen sie nicht mögen. Zudem kommt, dass es sogar welche gibt, die mit heutzutage exotischen Sprachen entwickelt wurden und zu guter letzt kommt es zuweilen vor, dass das Fachwissen zur entwickelten Software in Rente geht. Dennoch, frei nach dem Spruch \"Never change a halbwegs running System\", werden solche Systeme gehegt und gepflegt. Vermutlich, weil sie eine systemrelevante Größe sind oder man Investitionsschutz betreibt. Nichtsdestotrotz sind diese Systeme wichtig und möchten sogar gerne in moderne Systeme eingebunden werden. Doch wie soll das bitte passieren, wenn keiner mehr die Sprache kann, die \"Auskenner\" nicht mehr da sind und das Einarbeiten die Hölle ist?\n\nProject Drasi geht den Weg des geringsten Widerstands und erlaubt eine Integration ohne Code und ohne massiven Aufwand. Wie das geht, warum das geht und dass das auf jeden Fall betrachtet werden sollte, möchte ich in diesem Talk zeigen."
+  },
+  {
+    "id": "11",
+    "date": "2026-05-05",
+    "start": "17:30",
+    "end": "18:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Modern Software Engineering",
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/JanekFellien.jpg",
+    "speaker": "Janek Fellien",
+    "title": "Softwareentwicklung ohne Plan",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Ich erzähle niemandem etwas neues, wenn ich sage, dass der Einzug der KI in die Softwareentwicklung ein höchstgradig disruptives Ereignis ist. Die Entwickler*innen dieser Welt machen sich Sorgen um ihren Job und sehen sich durch die KI ersetzt. Andere wiederum lehnen sich zurück und schreiben auf LinkedIn Artikel darüber, wie schlecht die Ergebnisse sind und vor allem, wie sehr man durch den Einsatz der KI ausgebremst wird.\n\nWas ist, wenn ich sage: Weder noch, denn du benutzt es einfach nur falsch. Wir stehen am Anfang einer Ära, deren Mehrwert nicht darin besteht, das Bisherige genau so weiter zu machen, nur mit anderen Mitteln. Denn wir wissen doch, digitalisiert man einen schlechten Prozess, wird daraus nur ein schlechter digitaler Prozess.\n\nDas Wort Vibecoding ist ein Sinnbild für das komplette Missverständnis für diesen technologischen Schritt. Gleichwohl könnte man sagen, dass Vibecoding dichter an der Zukunft ist, als mit Hilfe von Agenten und instruction files eine KI zurechtbiegen.\n\nMöchtest du wissen, wie du in den nächsten Jahren problemlos mit dieser Technologie mitgehen kannst, ohne Zeitverluste und nervige Diskussionen mit dem Copiloten, dann komme in diesen Talk. Er ist angefüllt mit Ideen, Überlegungen, logischen Schlussfolgerungen, Zitaten und dem Ergebnis einer wundervollen Diskussion mit ChatGPT."
+  },
+  {
+    "id": "54",
+    "date": "2026-05-05",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "100 200",
+    "level_label": "100 200",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Modern Software Engineering",
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FensterLippert.jpg",
+    "speaker": "Tobias Fenster, Markus Lippert",
+    "title": "GitOps - Infrastructure as Code, aber richtig",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Hoffentlich verwaltest du deine Azure-Infrastruktur inzwischen nicht mehr manuell über das Azure-Portal, aka ClickOps. Ansätze wie Infrastructure as Code mit Bicep oder Terraform haben in den letzten Jahren stark an Bedeutung gewonnen und sind definitiv ein großer Fortschritt. Aber was wäre, wenn wir diesen Ansatz noch weiterentwickeln könnten, indem wir Ressourcen direkt in einem Git-Repository verwalten und ein Tool die Bereitstellung und Wartung übernimmt? Genau das ist die Idee hinter GitOps! In dieser Session lernst du die Grundlagen von GitOps mit Azure kennen und siehst in praktischen Demos, wie das Ganze tatsächlich funktioniert."
+  },
+  {
+    "id": "44",
+    "date": "2026-05-05",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/VolkerHillmann.jpg",
+    "speaker": "Volker Hillmann",
+    "title": "C++ Neu Denken",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Die Sprache C++ hat sich in den letzten Jahren verändert, nur haben wir die Art, wie wir Probleme lösen nicht verändert. Dabei ist C++ nicht einfach eine Programmiersprache, sondern liefert uns Abstraktionen, die wir nutzen können. Dabei spielt Ressourcensicherheit eine entscheidende Rolle, die meisten nutzen bestimmt schon RAII. Aber dann bleiben wir in den alten Abstraktionen verwurzelt. Dabei bieten variadic templates, verbunden mit den std::ranges, verbunden mit den Coroutinen eine neue Sicht. So ist eine Datei nur noch ein ranges, und wir können mit Bibliotheksfunktionen nutzen.\n\nIn diesem Vortrag möchte ich zeigen, dass wir nicht nur eine neue Syntax lernen müssen, sondern auch unsere Art und Weise, wie wir Probleme abbilden wollen, überdenken sollten."
+  },
+  {
+    "id": "45",
+    "date": "2026-05-06",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/VolkerHillmann.jpg",
+    "speaker": "Volker Hillmann",
+    "title": "Oberflächenabstraktion mit modernem C++",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Welche Möglichkeiten gibt es, mit altem (wie RAII) und neuem (Concepts) eine Oberflächenanbindung zu implementieren, und wie sollte man heute mit Oberflächen interagieren. Wieviel davon können wir mit compile time Ausdrücken optimieren, und was bleibt für die Laufzeit. Wie helfen uns die neuen Abstraktionen in C++ diese Probleme zu lösen.\n\nDieser Vortrag setzt den ersten Vortrag mit dem konkreten Beispiel fort."
+  },
+  {
+    "id": "12",
+    "date": "2026-05-06",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/StephanHüwe.jpg",
+    "speaker": "Stephan Hüwe",
+    "title": "Microsoft Agent Framework – Intelligente Automatisierung für die nächste Generation digitaler Systeme",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Das Microsoft Agent Framework eröffnet eine neue Ära der KI gestützten Automatisierung, in der Software nicht mehr nur reagiert, sondern aktiv handelt. Das Framework ermöglicht die Entwicklung intelligenter Agenten, die komplexe Aufgaben eigenständig ausführen, mit externen Systemen interagieren und in bestehende Geschäftsprozesse integriert werden können. Durch die Kombination von Large Language Models, Tool Anbindung, Workflow Orchestrierung und Azure basierten Sicherheitsmechanismen entsteht eine flexible Plattform für skalierbare, zuverlässige und nachvollziehbare Automatisierung.\n\nDer Vortrag zeigt, wie Agenten definiert, gesteuert und überwacht werden, welche Architekturprinzipien dahinterstehen und wie Unternehmen – von Vereinen bis zu großen Organisationen – damit operative Effizienz steigern können. Anhand praxisnaher Beispiele wird demonstriert, wie Agenten Daten analysieren, Entscheidungen vorbereiten, Prozesse ausführen und mit anderen Systemen kooperieren. Das Microsoft Agent Framework wird damit zu einem zentralen Baustein moderner digitaler Transformation und eröffnet neue Möglichkeiten für produktive, sichere und adaptive KI Lösungen."
+  },
+  {
+    "id": "14",
+    "date": "2026-05-06",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RolandKönig.jpg",
+    "speaker": "Roland König",
+    "title": "Let the browser help you: Wie du Browser-Features zum Absichern deiner Webapplikation nutzt",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Moderne Browser sind mit leistungsstarken Sicherheitsmechanismen ausgestattet - dennoch nutzen viele Webapplikationen diese nicht in vollem Umfang. In diesem Vortrag untersuchen wir, wie der Browser zum starken Verbündeten bei der Abwehr von Angriffen werden kann. Wir werden uns eingehend mit Features wie Content Security Policy (CSP), Subresource Integrity (SRI), HttpOnly-Cookies und Trusted Types beschäftigen. Diese und andere tragen dazu bei, typische Angriffsvektoren wie Cross-Site-Scripting zu unterbinden.\n\nIn dieser Session lernst du praktische Möglichkeiten kennen, die Schutzmaßnahmen des Browsers zu konfigurieren, ihre Vor- und Nachteile zu verstehen und sie im eigenen Entwicklungsworkflow zu integrieren. Ganz gleich, ob du an einer Single Page Application (SPA) oder an einer vom Server gerenderten Webapplikation arbeitest - Du wirst konkrete Best Practices kennenlernen, mit denen du den Browser zur Absicherung deiner Webapplikation nutzen kannst."
+  },
+  {
+    "id": "15",
+    "date": "2026-05-05",
+    "start": "16:15",
+    "end": "17:15",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RolandKönig.jpg",
+    "speaker": "Roland König",
+    "title": "Moderne Cross-Plattform Applikationen mit .NET und Avalonia UI",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Es gibt eine lange Liste möglicher Frontend-Frameworks, zwischen denen .NET-Entwicklungsteams wählen können. Ein sehr spannender Kandidat ist Avalonia UI. Ursprünglich als Cross-Plattform Alternative zu WPF gestartet, bietet es heute neben den bekannten Desktops von Windows, macOS und Linux auch Unterstützung für mobile Plattformen (Android, iOS), für den Browser (via WebAssembly) und als Alleinstellungsmerkmal auch für Embedded Linux. Aufgrund der vielen unterstützen Plattformen und des vergleichbaren Ansatzes beim Rendering, könnte man Avalonia UI auch das Flutter für .NET-Entwickler nennen.\n\nAvalonia UI setzt ähnlich wie das ältere WPF auf XAML, es bevorzugt das MVVM-Pattern, lässt sich über Styles individuellen optischen Bedürfnissen anpassen, hat ein besonderes Augenmerk auf Performance und ist gut in aktuelle IDEs wie Microsoft Visual Studio und JetBrains Rider integriert. Diese Eigenschaften machen das Framework besonders für Teams interessant, die Vorkenntnisse in WPF oder Windows.Forms haben oder sogar einen Migrationspfad für diese Anwendungen in die Cross-Plattform Welt suchen.\n\nIn dieser Session möchte ich zeigen, was Avalonia UI stand heute zu bieten hat. Ebenso bringe ich verschiedene Beispiel-Applikationen mit, mithilfe derer wir uns mit Vor- und Nachteilen des Frameworks auseinandersetzen können."
+  },
+  {
+    "id": "47",
+    "date": "2026-05-05",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/MariaKorneeva.jpg",
+    "speaker": "Maria Korneeva",
+    "title": "Zukunft der Web-Accessibility: Neue Ansätze, neue Tools, neue Chancen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Welche neuen Möglichkeiten bieten moderne Browser, HTML und CSS – und wie machen sie Interfaces robuster, klarer und flexibler?\n\nIn diesem Vortrag werden die spannendsten Neuerungen aus der Perspektive der Barrierefreiheit vorgestellt. APIs wie ARIA Notify und das Accessibility Object Model (AOM) erlauben neue Interaktionen, Lesereihenfolgen und semantische Strukturen direkt aus dem Code. Verbesserungen bei CSS-Layoutsteuerungen machen selbst komplexe Interfaces verständlicher und stabiler.\n\nDie Teilnehmenden erhalten ein Update über experimentelle und neue Web-Technologien, konkrete Praxisbeispiele und Einblicke in die zukünftigen Spezifikationen."
+  },
+  {
+    "id": "16",
+    "date": "2026-05-05",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/BillyLando.jpg",
+    "speaker": "Billy Lando",
+    "title": "Signals und Formulare als Modell reaktiver Validierung in Angular",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Formulare sind ein zentrales Element interaktiver Anwendungen und stellen besondere Anforderungen an Zustandsmodellierung und Validierung. In Angular werden hierfür üblicherweise Template Driven Forms oder Reactive Forms eingesetzt. Beide Ansätze bieten etablierte Lösungen, weisen jedoch strukturelle Schwächen bei der Abbildung komplexer Validierungsregeln und voneinander abhängiger Formularzustände auf.\n\nMit der Einführung von Signals steht ein neues Reaktivitätsmodell zur Verfügung, das eine explizite Trennung zwischen Formularzustand und dessen abgeleiteten Eigenschaften ermöglicht. Dieser Vortrag untersucht, wie sich Validierung und abhängige Formularlogik mithilfe von Signals als abgeleiteter Zustand modellieren lassen. Anhand konkreter Beispiele wird gezeigt, dass sich Validierungslogik dadurch verständlicher formulieren lässt und Änderungen am Formularzustand deterministisch und ohne zusätzliche Synchronisationsmechanismen erfolgen.\n\nDer Vortrag ordnet Signals nicht als Ersatz bestehender Formularansätze ein, sondern als grundlegendes Zustandsmodell, das neue Strukturen für die Implementierung von Formularlogik ermöglicht."
+  },
+  {
+    "id": "17",
+    "date": "2026-05-06",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/BillyLando.jpg",
+    "speaker": "Billy Lando",
+    "title": "Micro-Frontends: Eine Dekade später – Versprechen, Realität und offene Fragen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Seit der ersten Erwähnung von Micro-Frontends im ThoughtWorks Technology Radar 2016 ist eine Dekade vergangen. In dieser Zeit haben sich Patterns und Tools etabliert und praktische Erfahrungen akkumuliert.\n\nDieser Vortrag untersucht die Evolution von Micro-Frontend-Architekturen und konfrontiert die ursprünglichen Versprechen mit der empirischen Realität. Anhand der vier technologischen Phasen von frühen iFrame-Experimenten über Module Federation bis hin zu nativen ES Module Ansätzen wird gezeigt, welche architektonischen Muster sich durchgesetzt haben.\n\nIm Zentrum steht die Analyse fundamentaler Spannungsfelder: Team-Autonomie versus System-Kohärenz, Deployment-Flexibilität versus Performance, technologische Freiheit versus Koordinationsaufwand."
+  },
+  {
+    "id": "18",
+    "date": "2026-05-06",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "sec"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FlorianLenz.jpg",
+    "speaker": "Florian Lenz",
+    "title": "Terraform like a Pro: From Code to Pipelines with Cost, Security, and Compliance Built In",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Die meisten Terraform-Projekte starten chaotisch – mit Ad-hoc-Skripten, manuellen Ausführungen und ohne echte Struktur. Das funktioniert, bis die Kosten explodieren, Audits scheitern oder jemand fragt, wer was geändert hat. Infrastructure as Code bedeutet mehr, als nur ein paar Terraform-Skripte zu schreiben und terraform apply auszuführen. In dieser Session nimmt Florian Sie mit auf eine praxisnahe Reise, wie man Terraform-Projekte richtig entwickelt.\n\nAm Beispiel von Azure gehen wir Schritt für Schritt durch den Aufbau einer produktionsreifen Infrastruktur und automatisieren anschließend deren Bereitstellung mit GitHub Actions. Aber eine moderne Pipeline macht weit mehr, als nur zu deployen: Sie überprüft Kosten, scannt auf Sicherheits- und Compliance-Probleme und erzwingt Governance, bevor Änderungen überhaupt in die Produktion gelangen.\n\nWenn Sie Terraform-Projekte wie ein Profi entwerfen, strukturieren und betreiben möchten, gibt Ihnen dieser Vortrag die Werkzeuge und Muster an die Hand, um genau das zu erreichen."
+  },
+  {
+    "id": "19",
+    "date": "2026-05-06",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FlorianLenz.jpg",
+    "speaker": "Florian Lenz",
+    "title": "Shift Left, But Do It Right: Security-by-Design im Zeitalter von GitOps",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Software-Lieferketten sind nicht nur ein technisches „Nice-to-have\", sondern bilden das Fundament für Innovation und Sicherheit. Open Source ist heute Alltag: Jede Anwendung enthält Dutzende, manchmal sogar Hunderte Pakete. Wenn auch nur eines davon kompromittiert wird, können die Folgen katastrophal sein (siehe den jüngsten Hack weit verbreiteter npm-Module).\n\nIn diesem Vortrag wird ein Ansatz vorgestellt, bei dem von Anfang an sicher entwickelt wird, anstatt die Sicherheit erst im Nachhinein zu prüfen. Unter dem Motto „Shift Left, Done Right\" wird demonstriert, wie GitOps-Workflows, automatisierte Scans, SBOMs und signierte Artefakte zu einem festen Bestandteil der täglichen Entwicklung werden können, ohne die Geschwindigkeit zu beeinträchtigen.\n\nAnhand eines konkreten Plans wird demonstriert, wie Entwicklungs-, Betriebs- und Sicherheitsteams zusammengeführt werden, um Geschwindigkeit zu bewahren und gleichzeitig Resilienz aufzubauen. Ein Vortrag für all jene, die sich nicht nur fragen „Was mache ich jetzt?\", sondern auch „Wie mache ich das richtig?\"."
+  },
+  {
+    "id": "20",
+    "date": "2026-05-05",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/mayerendres.jpg",
+    "speaker": "Jonas Mayer, Thomas Endres",
+    "title": "Robots Among Us: Fortschritte in der KI für Androiden im Alltag",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Die Robotik hält zunehmend Einzug in unseren Alltag, insbesondere durch humanoide Roboter. In diesem Vortrag wird eine Live-Demonstration des Humanoiden Roboters Unitree G1 präsentiert und gezeigt, wie Fortschritte in den Bereichen KI, zunehmende Datenverfügbarkeit und Edge-Computing-Hardware Science-Fiction zur Realität werden lassen.\n\nBegonnen wird mit einem Überblick über die Robotik und ihr Marktpotenzial. Anschließend wird das Robotertraining beleuchtet und gezeigt, wie integrierte Hardware und Software die Lücke zwischen Simulation und realem Einsatz schließen. Abschließend wird gezeigt, wie Vision-Language-Action-Modelle (VLA) eine sinnvolle Mensch-Roboter-Interaktion und zukünftige Anwendungen ermöglichen."
+  },
+  {
+    "id": "21",
+    "date": "2026-05-05",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/ThorbenMenne.jpg",
+    "speaker": "Thorben Menne",
+    "title": "ML Modell zur Zustandsvorhersage in Lithium-Ionen Akkus",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "Elektrische Fahrzeuge erzeugen schnell wechselnde Lasten, die komplexe Vorgänge in Lithium-Ionen-Akkus auslösen. Physikbasierte Modelle wie das Doyle–Fuller–Newman (DFN) Modell können innere Zellzustände (z. B. Lithium-Konzentration, Elektrolyt-Potentiale) realistisch abbilden, sind aber für den Echtzeiteinsatz in Batteriemanagementsystemen (BMS) nicht performant genug. Dort werden dann oft vereinfachte Ersatzmodelle genutzt, die jedoch wichtige interne Dynamik unberücksichtigt lassen.\n\nIAV versucht u.a. das Problem mit datengetrieben ML Methoden anzugehen und performante Ersatzmodelle für die Vorhersage der inneren Zustände zu erzeugen. Die Modelle werden auf synthetischen Datensatz unter realistischen EV-Lastprofilen trainiert und autoregressiv zur stetigen Vorhersage des nächsten Zustands genutzt. Wir bewerten die Genauigkeit gegenüber der DFN Referenz, die Inferenzgeschwindigkeit, Robustheit über verschiedene Betriebszustände und die Stabilität über lange Zeiträume."
+  },
+  {
+    "id": "22",
+    "date": "2026-05-06",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "100",
+    "level_label": "Basics | Origin",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/ChristophMenzel.jpg",
+    "speaker": "Christoph Menzel",
+    "title": "Security by Culture - Warum Awareness wichtiger ist als Tools",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "Trotz Milliardeninvestitionen in modernste Sicherheitstechnologien beginnen 95% aller erfolgreichen Cyberangriffe mit einem menschlichen Fehler. Aktuelle Vorfälle bei prominenten Unternehmen zeigen auf dramatische Weise, dass selbst die besten Tools an ihre Grenzen stoßen, wenn die wahre Schwachstelle, der Faktor Mensch, nicht adressiert wird.\n\nIn diesem Vortrag erfährst du, wie wichtig es ist, eine Kultur und Awareness für Security aufzubauen und wie dir dies gelingen kann. Eines ist klar, dies geschieht nicht über Nacht und schon gar nicht, indem du ein paar bunte Poster mit klugen Sprüchen an die Wand hängst.\n\nLass uns gemeinsam Security leben statt nur darüber zu reden, die Anwendungen von morgen sicherer gestalten und den Faktor Mensch zur stärksten Verteidigungslinie machen."
+  },
+  {
+    "id": "23",
+    "date": "2026-05-05",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/ChristophMenzel.jpg",
+    "speaker": "Christoph Menzel",
+    "title": "MFA? Game over! Watch your protection collapse – live",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "In einer digitalen Welt, in der Passwörter und Multi-Faktor-Authentifizierung als uneinnehmbare Schutzwälle gelten, sieht die Realität ganz anders aus. Jeden Monat finden Millionen von Angriffen statt, die genau diese Schutzmechanismen umgehen. Dennoch glauben viele weiterhin, dass MFA vollständige Sicherheit garantiert.\n\nIn diesem Vortrag demonstriere ich live, wie mühelos Passwörter abgegriffen und MFA-Mechanismen ausgehebelt werden können. Und dabei ist das Ganze kostenlos, lässt sich in wenigen Minuten aufsetzen und durchführen und wird durch den Einsatz von KI noch einfacher. Dabei zeige ich, dass die größte Schwachstelle oft nicht die Technik selbst ist, sondern das Vertrauen, das wir ihr entgegenbringen.\n\nTrotzdem gibt es Lösungen. Wenn technologische Fortschritte und menschliche Wachsamkeit richtig zusammenspielen, wird der Spielraum für Angreifer:innen deutlich kleiner."
+  },
+  {
+    "id": "24",
+    "date": "2026-05-05",
+    "start": "17:30",
+    "end": "18:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "englisch",
+    "themes": [
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FrankMertens.jpg",
+    "speaker": "Frank Mertens",
+    "title": "Modern C++ API design for Embedded Systems: lessons learned",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "C is still the leading language for low-level system programming and hence C++ as the logical extension of C for object-oriented programming is still the language of choice, in particular in resource constrained environments, where language mappers and additional runtime code would be prohibitive expensive.\n\nWhile old-school C++ is commonly known to be as risky to use as juggling with chain-saws, modern C++ opened new doors for creating safe and sound APIs that are high-level and fun to use and do not need to shy away in its expressiveness from C# or Python programming APIs. The author will present his lessons learned and will try to give an outlook for the future of C++ in the Embedded world."
+  },
+  {
+    "id": "27",
+    "date": "2026-05-06",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch englisch",
+    "themes": [
+      "AI & ML",
+      "Architektur",
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/KennyPflug.jpg",
+    "speaker": "Kenny Pflug",
+    "title": "Vergiss Vibe Coding, wechsle zu Guided Coding",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "In diesem Vortrag schauen wir uns an, warum Vibe Coding für schnelle Prototypen interessant ist, beim Design von komplexeren Lösungen aber schnell an seine Grenzen stößt. Als Alternative werfen wir einen Blick auf Guided Coding, bei dem es eine dedizierte Planungs-, Implementierungs- und Reviewphase gibt, in denen man seine AI Coding Agents gezielt steuert. Man kann schneller entwickeln (ein Speedup von 1,25x bis 4x sind nicht unrealistisch) und verliert trotzdem nicht den Überblick, alles anhand von konkreten Beispielen aus der Entwicklung der .NET-Bibliothek Light.Results. Dabei gehen wir auch auf neue Entwicklungen bei Coding Agents wie AGENTS.md, Skills, Context Window Management und Prompt Injection ein."
+  },
+  {
+    "id": "56",
+    "date": "2026-05-06",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur",
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/HannesPreishuber.jpg",
+    "speaker": "Hannes Preishuber",
+    "title": "Fake RAG vs. echtes RAG: Wie .NET-Anwendungen wirklich von LLMs profitieren",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Viele Anwendungen nennen sich heute „RAG\", nutzen aber in Wirklichkeit nur Prompting oder generieren SQL über ein LLM.\n\nAnhand eines realen Projekts – einer Schulungssuche auf ppedv.de\n\nWir stellen dem bestehenden System echtes Retrieval-Augmented Generation gegenüber: mit Embeddings, Vektorsuche (auch In-Memory) und einem Modell wie Qwen 3.5.\n\nDas Ergebnis: bessere Trefferqualität, nachvollziehbares Verhalten und eine Architektur, die wirklich skalierbar ist."
+  },
+  {
+    "id": "57",
+    "date": "2026-05-05",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur",
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/HannesPreishuber.jpg",
+    "speaker": "Hannes Preishuber",
+    "title": "Hands-on: Lokale KI in .NET integrieren – von Setup bis API",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "In dieser praxisnahen Session bauen wir Schritt für Schritt eine lokale KI-Integration in .NET. Mit LM Studio und einem Modell wie Qwen 3.5 entsteht ein vollständiger Workflow – vom lokalen Setup über API-Zugriff bis zur Nutzung in einer echten Anwendung.\n\nEine mitmach Session auf einem Mac Mini!"
+  },
+  {
+    "id": "55",
+    "date": "2026-05-06",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "New Work",
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/MathiasRaacke.jpg",
+    "speaker": "Mathias Raacke",
+    "title": "Vom Skeptiker zum AI-Enthusiasten: Was ich in vielen schlaflosen Nächten über KI-Coding gelernt habe",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Während auf LinkedIn alle über KI und Vibe Coding sprachen, beobachtete ich skeptisch von der Seitenlinie. Doch das Gefühl, den Anschluss zu verlieren, wurde stärker. Also startete ich ein privates Experiment in meiner Freizeit: Ein komplettes Projekt ausschließlich mit KI entwickeln – ohne eine einzige Zeile selbst zu schreiben.\n\nDer erste Versuch scheiterte spektakulär: 100+ grüne Unit Tests, aber das Programm crashte direkt beim Start. Nach intensivem Einarbeiten und vielen schlaflosen Nächten folgte Versuch 2 – diesmal erfolgreich: 1000+ Commits, 1000+ Tests, ein produktiv eingesetztes Open-Source-Tool.\n\nIn diesem Vortrag teile ich meine Learnings aus der Transformation vom Skeptiker zum Poweruser: Warum Spec-Driven Development und klare Rahmenbedingungen entscheidend sind. Wie Custom Agents, Skills und kontinuierliche Workflow-Verbesserungen den Unterschied machen. Und was das alles konkret für unseren Alltag als Software-EntwicklerInnen bedeutet.\n\nIch zeige Codebeispiele direkt aus meinem Projekt: Welchen konkreten Workflow habe ich verwendet? Wie sehen meine Custom Agents und Skills aus, und wann ist ein einfaches Shell-Script die bessere Alternative? Was hat gut funktioniert, was nicht? Was kann ich „über Nacht\" von autonomen Github Coding Agents erledigen lassen, was funktioniert besser interaktiv im CoPilot Chat in Visual Studio Code?\n\nEin ehrlicher Erfahrungsbericht mit praktischen Beispielen – kein Experten-Talk, sondern Learnings aus der Praxis für die Praxis."
+  },
+  {
+    "id": "48",
+    "date": "2026-05-05",
+    "start": "16:15",
+    "end": "17:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FlorianRappl.jpg",
+    "speaker": "Florian Rappl",
+    "title": "Jenseits von Microservices - Hypermodularität für Webanwendungen",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Microservices versprechen Unabhängigkeit und Skalierbarkeit, führen in der Praxis jedoch häufig zu hoher konzeptioneller und operativer Komplexität.\n\nDieser Talk zeigt, wie sich Webanwendungen durch konsequente Hypermodularisierung weiterdenken lassen – jenseits klassischer Service-Architekturen. Statt weniger großer Services besteht die Anwendung aus vielen fachlich klar geschnittenen Modulen auf FaaS-ähnlichem Granularitätsniveau. Diese Module können unabhängig entwickelt, getestet und deployt werden und bleiben dennoch als integrierte Gesamtanwendung („Modulith\") lauffähig.\n\nDie Modularisierung endet dabei nicht im Backend: Auch das Frontend folgt denselben Prinzipien und wird aus austauschbaren Modulen zusammengesetzt. Anhand einer konkreten Architektur und Umsetzung zeigt der Vortrag, wie hochdynamische Benutzerlandschaften über Feature- und Permission-Flags entstehen, wie fein-granulare Rollbacks realisiert werden und wie sich Anwendungen gezielt extern erweitern lassen.\n\nDer Talk richtet sich an Architekt:innen und Entwickler:innen, die große Webanwendungen langfristig wartbar, flexibel und beherrschbar gestalten möchten – ohne den Overhead klassischer Microservice-Landschaften."
+  },
+  {
+    "id": "49",
+    "date": "2026-05-06",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Architektur",
+      ".NET & C++"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/FlorianRappl.jpg",
+    "speaker": "Florian Rappl",
+    "title": "GraphQL war gestern - Anatomie moderner Query Endpunkte",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "GraphQL, OData und ähnliche Ansätze verfolgen seit Jahren das gleiche Ziel: flexible, dynamische Query-Endpunkte für Webanwendungen.\n\nIn der Praxis scheitern diese Standards jedoch häufig an ihrer Generalität – entweder sind sie zu abstrakt oder zu unflexibel, um die fachlichen Anforderungen einer konkreten Anwendung sinnvoll abzubilden.\n\nDieser Talk stellt einen alternativen Ansatz vor: statt einen weiteren Standard einzuführen, werden Query-Endpunkte gezielt anwendungsnah und explizit modelliert. Anhand einer ASP.NET-Core-Webanwendung zeigen wir, wie sich mit Mages, einer domänenspezifischen Skriptsprache, Endpunkte entwickeln lassen, die direkt auslesbar, sicher erweiterbar und klar kontrollierbar sind.\n\nWir analysieren Aufbau, Ausführung und Sicherheitsmechanismen solcher Query-Endpunkte und zeigen, wie sich Flexibilität, Performance und Wartbarkeit miteinander vereinbaren lassen. Der Vortrag richtet sich an Architekt:innen und Entwickler:innen, die die Grenzen bestehender Query-Standards kennen und nach praktikablen Alternativen für reale Systeme suchen."
+  },
+  {
+    "id": "28",
+    "date": "2026-05-05",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/TimSchade.jpg",
+    "speaker": "Tim Schade",
+    "title": "MCP: Das neue KI-Protokoll - Wie sicher ist das?",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Das Model Context Protocol (MCP) hat das Potenzial, die Einbindung bestehender Anwendungen, Tools und Datenquellen direkt in LLMs und Chatbots grundlegend zu vereinfachen. Damit können KI-Assistenten nicht nur Informationen nutzen, sondern aktiv Funktionen ausführen und in komplexe Systemlandschaften eingebettet werden. Doch jede neue Schnittstelle erweitert die Angriffsfläche: Manipulierte Kontextdaten, unsichere Tool-Ausführungen oder fehlerhafte Serverimplementierungen können zu erheblichen Sicherheitsrisiken führen.\n\nIn diesem Vortrag beleuchten wir, welche sicherheitsrelevanten Aspekte beim Einsatz von MCP besonders kritisch sind – von Authentifizierung und Autorisierung über Datenvalidierung bis hin zu Angriffspfaden wie Prompt Injection, Supply-Chain-Risiken und kompromittierbaren Tool-Endpunkten. Zudem diskutieren wir Best Practices für eine sichere Konzeption und den Betrieb von MCP-Servern. Ziel ist es, Mehrwert durch leistungsfähige KI-Integration zu schaffen, ohne die Systemsicherheit zu gefährden."
+  },
+  {
+    "id": "29",
+    "date": "2026-05-05",
+    "start": "17:30",
+    "end": "18:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/TimSchade.jpg",
+    "speaker": "Tim Schade",
+    "title": "Post-Quantum-Cryptography: Vorbereitung auf den Q-Day",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Quantencomputer stellen eine reale Bedrohung für viele heute eingesetzte Kryptosysteme dar. Verfahren wie RSA oder ECC könnten in Zukunft innerhalb kurzer Zeit gebrochen werden – ein Szenario, das oft als „Q-Day\" beschrieben wird. Doch Grund zur Panik besteht nicht: Mit Post-Quantum-Kryptografie (PQC) entstehen bereits standardisierte, quantensichere Verfahren. Insbesondere Algorithmen wie CRYSTALS-Kyber, die in aktuellen NIST-Standards verankert sind, halten zunehmend Einzug in Browser, Server und Protokolle wie TLS.\n\nIn diesem Vortrag erkläre ich verständlich, warum Quantencomputer klassische Kryptografie gefährden, was tatsächlich hinter dem Q-Day steckt und wie wir uns heute schon darauf vorbereiten können. Anhand praxisnaher Beispiele – etwa mit OpenSSL, NGINX und hybriden TLS-Konfigurationen – zeige ich, wie bestehende Webanwendungen Schritt für Schritt für die Post-Quantum-Ära fit gemacht werden können."
+  },
+  {
+    "id": "50",
+    "date": "2026-05-06",
+    "start": "14:45",
+    "end": "15:45",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML",
+      "New Work"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/PatrickSchnell.jpg",
+    "speaker": "Patrick Schnell",
+    "title": "Vom Kundenprojekt zum Produkt: Wie aus KI-Consulting schnell.digital AI Kit wurde",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Von Ticket-Triage, Angebotsgenerierung und vielem mehr. Nach dem x-ten Projekt fragten wir uns, wieso erfindet man das Rad immer neu und nutzen Frameworks wie LangChain, etc?\n\nHier ist die Geschichte, wie aus Projektmustern ein Produkt wurde. Welche Fehler wir bei der Umsetzung gemacht haben und wieso nun auch Fachabteilungen KI verstehen?"
+  },
+  {
+    "id": "51",
+    "date": "2026-05-06",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML",
+      "Modern Software Engineering"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/PatrickSchnell.jpg",
+    "speaker": "Patrick Schnell",
+    "title": "Wie wir einem Dev-Team die Review-Arbeit abgenommen haben – und was wir dabei über KI-Workflows gelernt haben",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Merge-Requests mit Jira-Kontext validieren: klingt simpel, ist es nicht. Wir zeigen, wie wir das für ein Kundenteam gelöst haben – und warum dieses Projekt der Auslöser war, aus Einzellösungen eine Plattform zu machen. Konzepte, Architektur, Learnings."
+  },
+  {
+    "id": "30",
+    "date": "2026-05-05",
+    "start": "11:30",
+    "end": "12:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch englischh",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/MarcSchuh.jpg",
+    "speaker": "Marc Schuh",
+    "title": "From Conway’s Law to Joyful Teams: Architecture, Org Design and the Hedonic Principle",
+    "duration": "60 min",
+    "language": "deutsch englisch",
+    "description": "Modern software architectures rarely fail purely because of technology; they fail because of organizational structures and a lack of motivation within teams. Conway’s Law tells us that systems mirror communication structures – but what happens when those structures are dysfunctional and change is experienced as painful?\n\nThis talk explores how architectural work, organizational design, and the hedonic principle can be combined to gradually transform \"Conway-driven\" structures into more pleasant and high-performing teams. Using real-world examples from large organizations, it shows how small, positively experienced changes are more sustainable than big-bang reorganizations, and how architectural decisions can be shaped to foster intrinsic motivation instead of resistance.\n\nAttendees will learn how to deliberately work with Conway’s Law, shaping team boundaries, interfaces, and responsibilities so that good architectures can emerge in the first place – and which techniques help turn frustrated delivery teams into joyful teams that actively embrace change."
+  },
+  {
+    "id": "31",
+    "date": "2026-05-05",
+    "start": "13:30",
+    "end": "14:30",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "englisch",
+    "themes": [
+      "Architektur"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/SerenaSensini.jpg",
+    "speaker": "Serena Sensini",
+    "title": "The DevOps Antipattern Show",
+    "duration": "60 min",
+    "language": "englisch",
+    "description": "Working in a business-critical company can lead to interesting circumstances, where your critical thinking and your experience with software architecture can be the only way to save a project. Let's laugh, learn, and have a retrospective as we spotlight real-world DevOps antipatterns in enterprise contexts: from heroic manual deploys to silos, to tools over people. Each ‘bad habit’ gets dissected with stories, some mimes and real fixes you can apply tomorrow, to learn what you should stop doing from tomorrow."
+  },
+  {
+    "id": "32",
+    "date": "2026-05-05",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "300",
+    "level_label": "Advanced | Endgame",
+    "languages_raw": "deutsch",
+    "themes": [
+      "AI & ML"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/RainerStropek.jpg",
+    "speaker": "Rainer Stropek",
+    "title": "Function Calling und MCP - Technischer Deep Dive",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Moderne Large Language Models entwickeln sich zunehmend von reinen Textgeneratoren zu orchestrierenden Komponenten komplexer Softwaresysteme. Zwei zentrale Bausteine dieser Entwicklung sind Function Calling und das Model Context Protocol (MCP). Sie ermöglichen es, LLMs strukturiert mit externen Systemen, APIs und Tools zu verbinden. In dieser Session werfen wir einen technischen Blick auf die Funktionsweise von Function Calling. Wir behandeln Schema-Definitionen, Tool-Auswahl, Fehlerbehandlung und Good Practices für Parameterdesign. Darauf aufbauend zeigen wir, wie MCP als standardisiertes Protokoll die Interaktion zwischen Modellen und Tool-Providern abstrahiert und skaliert. In der Session werden viele Codebeispiele gezeigt, bei denen TypeScript als Programmiersprache zum Einsatz kommt."
+  },
+  {
+    "id": "34",
+    "date": "2026-05-05",
+    "start": "10:15",
+    "end": "11:15",
+    "level": "200",
+    "level_label": "Intermediate | Hero Rise",
+    "languages_raw": "deutsch",
+    "themes": [
+      "Compliance & Security"
+    ],
+    "speaker_image": "https://adc.ms/26/assets/img/speaker/ChristianWenz.jpg",
+    "speaker": "Christian Wenz",
+    "title": "Web-Security, up-to-date! Die OWASP Top Ten 2025",
+    "duration": "60 min",
+    "language": "deutsch",
+    "description": "Nach vier Jahren Pause war es Ende 2025 endlich wieder so weit: Die neuen OWASP Top Ten sind da. Die bekannte Liste der zehn größten Sicherheitsrisiken für Webapplikationen wurde aktualisiert, mit zahlreichen Neuerungen: eine neue Prioritätenreihenfolge, neue Kategorien, aber auch alte Bekannte. Grund genug, einen Blick auf alle Einträge der Liste zu werfen und dabei natürlich auch zu besprechen, was das aus Sicht von ASP.NET Core und Blazor bedeutet."
+  }
+]
