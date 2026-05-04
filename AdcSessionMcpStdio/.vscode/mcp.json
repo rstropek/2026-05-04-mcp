@@ -8,7 +8,7 @@
       "type": "http",
       "url": "https://mcp.context7.com/mcp",
       "headers": {
-        "CONTEXT7_API_KEY": "ctx7sk-edf6c266-bcab-4910-bfe2-bce354f29e50"
+        "CONTEXT7_API_KEY": "${input:context7-api-key}"
       }
     },
     "adc-sessions": {
@@ -21,5 +21,11 @@
       ]
     }
   },
-  "inputs": []
+  "inputs": [
+    {
+      "id": "context7-api-key",
+      "type": "promptString",
+      "description": "Enter your Context7 API key"
+    }
+  ]
 }
