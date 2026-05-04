@@ -1,0 +1,25 @@
+{
+  "servers": {
+    "MS-Learn": {
+      "url": "https://learn.microsoft.com/api/mcp",
+      "type": "http"
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "ctx7sk-edf6c266-bcab-4910-bfe2-bce354f29e50"
+      }
+    },
+    "adc-sessions": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "${workspaceFolder}/AdcSessionMcpStdio.csproj"
+      ]
+    }
+  },
+  "inputs": []
+}

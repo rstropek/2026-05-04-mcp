@@ -12,7 +12,7 @@ Whenever you need up-to-date docs for Microsoft-related technologies including C
 
 If you build an MCP server, read the `mcp-builder` skill first. It contains general information about the protocol, design principles, and best practices.
 
-For any other technologies INCLUDING the MCP C# SDK, use Context7. The library ID for the MCP C# SDK is `modelcontextprotocol/csharp-sdk`.
+For any other technologies INCLUDING the MCP C# SDK, use Context7. The library ID for the MCP C# SDK is `/modelcontextprotocol/csharp-sdk`.
 
 ## Quality Checklist
 
@@ -20,3 +20,4 @@ Whenever you change or add code, make sure to run the following checks at the en
 
 * Build -> without errors and warnings
 * .NET Code Analysis -> without warnings
+* Ensure that we register latest versions of all NuGet packages, especially the MCP C# SDK

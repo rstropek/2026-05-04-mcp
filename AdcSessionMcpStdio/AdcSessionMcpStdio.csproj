@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.7" />
+    <PackageReference Include="ModelContextProtocol" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="AdcSessionMcpStdio.Tests/**/*.cs" />
+    <Content Remove="AdcSessionMcpStdio.Tests/**/*" />
+    <EmbeddedResource Remove="AdcSessionMcpStdio.Tests/**/*" />
+    <None Remove="AdcSessionMcpStdio.Tests/**/*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="sessions.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
